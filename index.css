@@ -1,0 +1,41 @@
+*{margin:0;font-family: cursive,'Lato', sans-serif;color: #2c3e50;font-weight: 300;}
+@media screen and (max-width:1400px) {
+   .bg1,.bg2,.bg3,.bg4,.bg5,.bg6{width: 1348px;} 
+   .bg1{height: 247px;}
+   .bg2{height: 286px;}
+   .bg3{height: 284px;}
+   .bg4{height: 281px;}
+   .bg5{height: 283px;}
+   .bg6{height: 287px;}
+   .f1{position: absolute;z-index: 9;top: 45px;width: 325px;right: 0;margin-right: 530px;opacity: 0;}
+   .f2{position: absolute;z-index: 9;top: 95px;width: 290px;right: 0;margin-right: 165px;opacity: 0;}
+   .co1{position: absolute;z-index: 9;top: 130px;width: 105px;;right: 0;margin-right: 550px;opacity: 0;transform:scale(0,0);}
+   .ios1,.and1{opacity: 0;transform:scale(0,0);position: absolute;z-index: 9;top: 130px;width: 200px;;right: 0;margin-right: 330px;cursor: pointer;}
+   .and1{top: 190px;}
+   .b2f1,.b2f2,.b2f3{position: absolute;z-index: 9;top: 330px;margin-left: 200px;}
+   .b2f1{border-left:2px solid #2c3e50;}
+   .b2f2{top:370px;}
+   .b2f3{top:395px;}
+   .ff1,.ff2,.ff3{position: absolute;z-index: 9;}
+   .ff3{margin-top:-200px;margin-left: 0px;opacity: 0;width: 240px;}
+   .ff1{width: 430px;margin:-150px 400px;opacity: 0;}
+   .ff2{width: 320px;margin:-115px 400px;opacity: 0;}
+   .fff1,.fff2,.fff3{position: absolute;z-index: 10;}
+   .fff1{margin-top:-200px;margin-left: 500px;opacity: 0;width:248px;}
+   .fff2{margin-top:-150px;margin-left: 900px;opacity: 0;width:353px;}
+   .fff3{margin-top:-120px;margin-left: 900px;opacity: 0;width:420px;}
+   .ffff1,.ffff2,.ffff3{position: absolute;z-index: 11;}
+   .ffff1{margin-top:-200px;margin-left: 400px;opacity: 0;width:270px;}
+   .ffff2{margin-top:-150px;margin-left: 000px;opacity: 0;width:400px;}
+   .ffff3{margin-top:-120px;margin-left: 000px;opacity: 0;width:350px;}
+   .fffff1,.fffff2,.fffff3{position: absolute;z-index: 10;}
+   .fffff1{margin-top:-200px;margin-left: 500px;opacity: 0;width:248px;}
+   .fffff2{margin-top:-130px;margin-left: 900px;opacity: 0;width:420px;}
+   .fffff3{margin-top:-100px;margin-left: 900px;opacity: 0;width:430px;}
+   .last1,.last2,.last3,.last4,.last5{position: absolute;z-index: 99;}
+   .last1{margin-top: -200px;width: 315px;opacity: 0;}
+   .last2{margin-top: -160px;width: 120px;margin-left: 210px;opacity: 0;transform:scale(0,0);}
+   .last3{margin-top: -152px;width: 220px;margin-left: 350px;cursor: pointer;opacity: 0;transform:scale(0,0);}
+   .last4{margin-top: -92px;width: 220px;margin-left: 350px;cursor: pointer;opacity: 0;transform:scale(0,0);}
+   .last5{margin-left: 200px;margin-top: -30px;opacity: 0;transform:scale(0,0);}
+}
