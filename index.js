@@ -59,7 +59,7 @@ window.onscroll=function(){
 			$('.fffff3').css({"transition":"0.5s","transform":"translateX(-200px)","opacity":"1"});
 		},800);
 		}
-	if (p_h>1000) {
+	if (p_h>840) {
 		setTimeout(function () {
 			$('.last1').css({"transition":"0.5s","transform":"translateX(200px)","opacity":"1"});
 		},100);
