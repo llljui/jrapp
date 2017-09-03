@@ -22,7 +22,7 @@ jQuery(document).ready(function($) {
 		},1800);
 		setTimeout(function () {
 			$('.ff2').css({"transition":"0.5s","transform":"translateX(-200px)","opacity":"1"});
-		},1800);
+		},2000);
 window.onscroll=function(){
  	var p_h=document.documentElement.scrollTop||document.body.scrollTop;
  	console.log(p_h);
@@ -78,4 +78,16 @@ window.onscroll=function(){
 
 		}
  }
+ $(".ios1").click(function() {
+ 	
+ });
+  $(".and1").click(function() {
+ 	
+ });
+   $(".last3").click(function() {
+ 	
+ });
+    $(".last4").click(function() {
+ 	
+ });
 })
